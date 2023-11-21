@@ -1,3 +1,4 @@
 # demo.1
-This is my First Repository
-Authir - Prajwal Bankar
+This is my First Repository.
+<br>
+Author - Prajwal Bankar
